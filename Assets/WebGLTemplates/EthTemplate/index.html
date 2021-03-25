@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | %UNITY_WEB_NAME%</title>
+    <script src="%UNITY_WEBGL_LOADER_URL%"></script>
+    <script>
+      UnityLoader.instantiate("unityContainer", "%UNITY_WEBGL_BUILD_URL%");
+
+      window.addEventListener('load', function() {
+        // Checking metamask
+        connectToMetamask();
+      });
+
+      function checkMetamask(){
+          if ( typeof window.ethereum !== 'undefined' && window.ethereum.isMetaMask ) {
+            if (ethereum.chainID !== "0x3") { //Ropsten
+              document.getElementById("metamaskWarning").innerText = 'Please connect to Rinkeby for testing';
+            }
+            document.getElementById("btnConnectToMetamask").style.visibility = "hidden";
+          } else {
+            document.getElementById("metamaskWarning").innerText = 'Please install and connect to Metamask';
+            document.getElementById("btnConnectToMetamask").style.visibility = "hidden";
+          }
+        }
+
+        async function connectToMetamask(){
+          try {
+            await window.ethereum.enable();
+            checkMetamask();
+          } catch (error) {
+            // Handle error. Likely the user rejected the login
+            console.error(error)
+          }
+        }
+    </script>
+  </head>
+  <body>
+    <div id="unityContainer" style="width: %UNITY_WIDTH%px; height: %UNITY_HEIGHT%px; margin: auto"></div>
+
+    <section class="jumbotron text-center">
+      <div class="container">
+        <h1 class="jumbotron-heading">Ethereum Flappy Unicorn PoC using Nethereum, Metamask and Infura</h1>
+        <p class="lead text-muted">Can you beat your top score and the top 5? Your top score will be stored in an ethereum blockchain smart contract once the game is finished</p>
+        <p id="metamaskWarning" class="lead" style="color:red">Please install Metamask and connect to Rinkeby to submit your top score</p>
+        <p>
+          <a href="#" id="btnConnectToMetamask"  onClick="connectToMetamask()" class="btn btn-secondary btn-lg btn-block">Connect to Metamask</a>
+        </p>
+      </div>
+    </section>
+  </body>
+</html>
