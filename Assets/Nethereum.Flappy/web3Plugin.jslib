@@ -27,10 +27,13 @@ mergeInto(LibraryManager.library, {
           //"data": datastr
         };
 
-        ethereum.request({ method: 'eth_sendTransaction', params : [args], });
+        ethereum.request({ method: 'eth_sendTransaction', params : [args], })
+        .then((txHash) => {
+          console.log(txHash);
+          ethereum.request({ method: 'eth_getTransactionReceipt', params : [txHash], });
+        });
 
     });
-
 
   },
 });
