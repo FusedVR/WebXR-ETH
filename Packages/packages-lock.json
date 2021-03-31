@@ -121,7 +121,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.management": {
-      "version": "3.2.13",
+      "version": "3.2.17",
       "depth": 1,
       "source": "registry",
       "dependencies": {

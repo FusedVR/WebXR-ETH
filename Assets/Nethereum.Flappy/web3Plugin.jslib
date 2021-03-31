@@ -12,11 +12,18 @@ mergeInto(LibraryManager.library, {
     return buffer;
   },
 
-  SendTransaction: function (to, data) {
+  SendTransaction: function (to, data, returnObj, returnFunc) {
     var tostr = Pointer_stringify(to);
     var wei = parseFloat(Pointer_stringify(data)) * Math.pow(10, 18);
     console.log(wei);
     var from = "";
+
+    //save variables in scope
+    var gameObject = Pointer_stringify(returnObj);
+    var callback = Pointer_stringify(returnFunc);
+
+    console.log("Outside Scope Callback : " + gameObject);
+
 
     ethereum.request({ method: 'eth_accounts' }).then(function(response){
       from = response[0];
@@ -27,13 +34,13 @@ mergeInto(LibraryManager.library, {
           //"data": datastr
         };
 
-        ethereum.request({ method: 'eth_sendTransaction', params : [args], })
-        .then((txHash) => {
-          console.log(txHash);
-          ethereum.request({ method: 'eth_getTransactionReceipt', params : [txHash], });
-        });
+      ethereum.request({ method: 'eth_sendTransaction', params : [args], }).then( function(txHash) {
+        console.log("TxHash: " + txHash);
+        console.log("My GameObject: " + gameObject);
+        console.log("My Function: " + callback);
+        unityInstance.SendMessage("Ethereum", "TransactionCallback", txHash);
+      });
 
     });
-
   },
 });
