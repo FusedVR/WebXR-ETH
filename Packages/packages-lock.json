@@ -9,15 +9,6 @@
       },
       "url": "https://package.openupm.com"
     },
-    "com.de-panther.webxr-interactions": {
-      "version": "0.8.0-preview",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.de-panther.webxr": "0.8.0-preview"
-      },
-      "url": "https://package.openupm.com"
-    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -77,7 +68,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.20",
+      "version": "1.1.22",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -97,10 +88,15 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.2.6",
+      "version": "1.2.18",
       "depth": 0,
       "source": "registry",
-      "dependencies": {},
+      "dependencies": {
+        "com.unity.modules.director": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.ugui": {
@@ -123,7 +119,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.management": {
-      "version": "3.2.17",
+      "version": "3.2.13",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -131,87 +127,6 @@
         "com.unity.subsystemregistration": "1.0.6"
       },
       "url": "https://packages.unity.com"
-    },
-    "io.extendreality.malimbe": {
-      "version": "9.6.6",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://registry.npmjs.org"
-    },
-    "io.extendreality.tilia.camerarigs.trackedalias.unity": {
-      "version": "1.5.9",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "io.extendreality.zinnia.unity": "1.31.1"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "io.extendreality.tilia.indicators.objectpointers.unity": {
-      "version": "1.6.11",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {
-        "io.extendreality.zinnia.unity": "1.31.1",
-        "io.extendreality.tilia.utilities.shaders.unity": "1.1.0",
-        "io.extendreality.tilia.mutators.objectfollower.unity": "1.1.16"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "io.extendreality.tilia.indicators.spatialtargets.unity": {
-      "version": "1.5.8",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "io.extendreality.zinnia.unity": "1.31.1",
-        "io.extendreality.tilia.indicators.objectpointers.unity": "1.6.11"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "io.extendreality.tilia.interactions.interactables.unity": {
-      "version": "1.15.10",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "io.extendreality.zinnia.unity": "1.31.1"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "io.extendreality.tilia.interactions.spatialbuttons.unity": {
-      "version": "1.2.7",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "io.extendreality.tilia.indicators.spatialtargets.unity": "1.5.8",
-        "com.unity.textmeshpro": "1.3.0"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "io.extendreality.tilia.mutators.objectfollower.unity": {
-      "version": "1.1.16",
-      "depth": 3,
-      "source": "registry",
-      "dependencies": {
-        "io.extendreality.zinnia.unity": "1.31.1"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "io.extendreality.tilia.utilities.shaders.unity": {
-      "version": "1.1.0",
-      "depth": 3,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://registry.npmjs.org"
-    },
-    "io.extendreality.zinnia.unity": {
-      "version": "1.31.1",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "io.extendreality.malimbe": "9.6.6"
-      },
-      "url": "https://registry.npmjs.org"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/FusedVR/Scenes/SimpleNaturePack_Demo.unity
-    guid: 5e7af4bd95ac53a4cb784a9eedf8f6f9
-  m_configObjects:
-    WebXR.Settings: {fileID: 11400000, guid: 6f459e15cd96b7a41883a0d16521df27, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a494a45f70a3a9442a8f41ec9b5afaf0,
-      type: 2}
+    path: Assets/NEther/Scenes/UnityETH.unity
+    guid: 6a4e4ecafe7cea648abb1acfa3e9ffd0
+  m_configObjects: {}

@@ -1,20 +1,16 @@
 {
   "dependencies": {
     "com.de-panther.webxr": "0.8.1-preview",
-    "com.de-panther.webxr-interactions": "0.8.0-preview",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.analytics": "3.3.5",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.3",
-    "com.unity.test-framework": "1.1.20",
+    "com.unity.test-framework": "1.1.22",
     "com.unity.textmeshpro": "2.0.1",
-    "com.unity.timeline": "1.2.6",
+    "com.unity.timeline": "1.2.18",
     "com.unity.ugui": "1.0.0",
-    "io.extendreality.tilia.camerarigs.trackedalias.unity": "1.5.9",
-    "io.extendreality.tilia.interactions.interactables.unity": "1.15.10",
-    "io.extendreality.tilia.interactions.spatialbuttons.unity": "1.2.7",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -53,15 +49,7 @@
       "url": "https://package.openupm.com",
       "scopes": [
         "com.de-panther",
-        "com.de-panther.webxr",
-        "com.de-panther.webxr-interactions"
-      ]
-    },
-    {
-      "name": "npmjs",
-      "url": "https://registry.npmjs.org/",
-      "scopes": [
-        "io.extendreality"
+        "com.de-panther.webxr"
       ]
     }
   ]
