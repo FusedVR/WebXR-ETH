@@ -1,4 +1,16 @@
-# Unity3d Simple Sample Net461
+# ReadME
+
+This is a clone of the [NEthereum Unity Project](https://github.com/Nethereum/Unity3dSimpleSampleNet461) but augmented with the ability to use Metamask to sign transactions for WebGL builds. The example was based on the [NEthereum Flappy Bird](https://github.com/Nethereum/Nethereum.Flappy) project. Below is the README for the Sample NEthereum Project. 
+
+## Misc Notes
+
+- This project is designed to work with WebGL
+- Because this project is designed for WebGL, it is recommended to use Coroutines as opposed to `async` & threading.
+- As this project showcases how to use Metamask with a Unity build, to use this project, you will be required to have Metamask installed
+- For any NEthereum requests you would like to make as part of the project, it is recommended that you setup your own Infura account and project
+- This project currently just showcases sending Ethereum between accounts. You can extend this however to interacting wit Smart Contracts
+
+# NEthereum Unity3d Simple Sample Net461 README
 
 Simple sample for Unity3d development using Net461, it includes all the DLLs required in the asset folder.
 
