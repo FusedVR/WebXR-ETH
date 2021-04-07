@@ -1,0 +1,18 @@
+{
+    "name": "FusedVR",
+    "references": [
+        "GUID:fd4abe4ffe74ef1448afe15c6cb36bb7",
+        "GUID:23756adb8cb36e64587322ad0ecdf5e3",
+        "GUID:aa53792fb241caf4dbb778e217642557",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
