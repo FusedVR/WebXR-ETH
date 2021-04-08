@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.de-panther.webxr": "0.8.1-preview",
+    "com.de-panther.webxr-interactions": "0.8.0-preview",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.analytics": "3.3.5",
@@ -10,6 +12,8 @@
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.18",
     "com.unity.ugui": "1.0.0",
+    "io.extendreality.tilia.camerarigs.trackedalias.unity": "1.6.0",
+    "io.extendreality.tilia.interactions.interactables.unity": "1.17.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -49,6 +53,13 @@
       "scopes": [
         "com.de-panther",
         "com.de-panther.webxr"
+      ]
+    },
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "io.extendreality"
       ]
     }
   ]

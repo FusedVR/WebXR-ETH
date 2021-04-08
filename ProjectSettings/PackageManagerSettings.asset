@@ -26,7 +26,6 @@ MonoBehaviour:
     m_Scopes:
     - com.de-panther
     - com.de-panther.webxr
-    - com.de-panther.webxr-interactions
     m_IsDefault: 0
   - m_Id: scoped:npmjs
     m_Name: npmjs
