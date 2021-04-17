@@ -1224,6 +1224,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!114 &400753513
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1343,6 +1344,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!224 &407626363
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2226,6 +2228,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!114 &897093603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3106,6 +3109,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!114 &1074992147
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3645,6 +3649,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!1 &1370170688
 GameObject:
   m_ObjectHideFlags: 0
@@ -3877,6 +3882,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!114 &1483735940
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4017,6 +4023,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!114 &1483841007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4157,6 +4164,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!114 &1485197197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4741,6 +4749,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!114 &1603448692
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4881,6 +4890,7 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
+  m_ShouldActivateOnSelect: 1
 --- !u!114 &1656419238
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5501,8 +5511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14924ad7b5f0a99408770da10efa0dc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Url: https://ropsten.infura.io/v3/7aab67d98b0b42f181905b62c2025d9a
-  PrivateKey: 492f523d8a5f3144f96a23a29967a651324519b272c1a98a08b639f9dcfe8e6d
+  Url: https://ropsten.infura.io/v3/54aad6b9ca114163a8ae09ba4257d978
   AddressTo: 0x74BAA21278E661eCea04992d5e8fBE6c29cF6f64
   TransactionHash: 
   InputUrl: {fileID: 1483841006}

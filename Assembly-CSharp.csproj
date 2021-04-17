@@ -379,8 +379,8 @@
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
-    <Reference Include="Malimbe.PropertySerializationAttribute">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+    <Reference Include="Malimbe.BehaviourStateRequirementMethod">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberChangeMethod">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
@@ -388,8 +388,8 @@
     <Reference Include="Malimbe.MemberClearanceMethod">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
     </Reference>
-    <Reference Include="Malimbe.BehaviourStateRequirementMethod">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
+    <Reference Include="Malimbe.PropertySerializationAttribute">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.XmlDocumentationAttribute">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
@@ -748,11 +748,26 @@
     <Reference Include="Boo.Lang">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
+    <Reference Include="Tilia.CameraRigs.TrackedAlias.Unity.Editor">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Tilia.CameraRigs.TrackedAlias.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Management">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Subsystem.Registration">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+    </Reference>
+    <Reference Include="Supyrb.Editor">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Supyrb.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Zinnia.Editor">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Zinnia.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -766,39 +781,6 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Tilia.CameraRigs.TrackedAlias.Unity.Editor">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Tilia.CameraRigs.TrackedAlias.Unity.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.Management">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Subsystem.Registration">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
-    </Reference>
-    <Reference Include="Supyrb.Editor">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Supyrb.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Zinnia.Editor">
-      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Zinnia.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
@@ -808,8 +790,17 @@
     <Reference Include="Tilia.CameraRigs.TrackedAlias.Unity.Runtime">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Tilia.Interactions.Controllables.Unity.Runtime">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Tilia.Interactions.Controllables.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Zinnia.Runtime">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
@@ -826,11 +817,20 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Tilia.Interactions.Interactables.Unity.Runtime">
       <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Tilia.Interactions.Interactables.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
