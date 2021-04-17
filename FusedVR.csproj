@@ -262,127 +262,127 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="BouncyCastle.Crypto">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/BouncyCastle.Crypto.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/BouncyCastle.Crypto.dll</HintPath>
     </Reference>
     <Reference Include="Common.Logging.Core">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Common.Logging.Core.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Common.Logging.Core.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Logging.Abstractions">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="NBitcoin">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/NBitcoin.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/NBitcoin.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.ABI">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.ABI.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.ABI.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Accounts">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Accounts.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Accounts.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Contracts">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Contracts.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Contracts.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Geth">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Geth.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Geth.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.HdWallet">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.HdWallet.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.HdWallet.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Hex">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Hex.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Hex.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.JsonRpc.Client">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.JsonRpc.Client.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.JsonRpc.Client.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.JsonRpc.IpcClient">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.JsonRpc.IpcClient.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.JsonRpc.IpcClient.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.JsonRpc.RpcClient">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.JsonRpc.RpcClient.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.JsonRpc.RpcClient.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.JsonRpc.WebSocketClient">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.JsonRpc.WebSocketClient.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.JsonRpc.WebSocketClient.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.KeyStore">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.KeyStore.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.KeyStore.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Model">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Model.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Model.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Parity">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Parity.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Parity.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Quorum">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Quorum.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Quorum.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.RLP">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.RLP.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.RLP.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.RPC">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.RPC.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.RPC.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Signer">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Signer.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Signer.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.StandardTokenEIP20">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.StandardTokenEIP20.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.StandardTokenEIP20.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Unity">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Unity.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Util">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Util.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Util.dll</HintPath>
     </Reference>
     <Reference Include="Nethereum.Web3">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Web3.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Nethereum.Web3.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System.Buffers">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/System.Buffers.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/System.Buffers.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Pipes">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/System.IO.Pipes.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/System.IO.Pipes.dll</HintPath>
     </Reference>
     <Reference Include="System.Numerics">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/System.Numerics.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/System.Numerics.dll</HintPath>
     </Reference>
     <Reference Include="System.Security.Cryptography.Algorithms">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/System.Security.Cryptography.Algorithms.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/System.Security.Cryptography.Algorithms.dll</HintPath>
     </Reference>
     <Reference Include="System.Security.Cryptography.Encoding">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/System.Security.Cryptography.Encoding.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/System.Security.Cryptography.Encoding.dll</HintPath>
     </Reference>
     <Reference Include="System.Security.Cryptography.Primitives">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/System.Security.Cryptography.Primitives.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/System.Security.Cryptography.Primitives.dll</HintPath>
     </Reference>
     <Reference Include="System.Security.Cryptography.X509Certificates">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Assets/NEther/Plugins/System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Assets/NEther/Plugins/System.Security.Cryptography.X509Certificates.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="Malimbe.BehaviourStateRequirementMethod">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
-    </Reference>
-    <Reference Include="Malimbe.MemberChangeMethod">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
-    </Reference>
-    <Reference Include="Malimbe.MemberClearanceMethod">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.PropertySerializationAttribute">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+    </Reference>
+    <Reference Include="Malimbe.MemberChangeMethod">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
+    </Reference>
+    <Reference Include="Malimbe.MemberClearanceMethod">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
+    </Reference>
+    <Reference Include="Malimbe.BehaviourStateRequirementMethod">
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.XmlDocumentationAttribute">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/PackageCache/io.extendreality.malimbe@9.6.6/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.23f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -739,22 +739,22 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="WebXR">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/ScriptAssemblies/WebXR.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/WebXR.dll</HintPath>
     </Reference>
     <Reference Include="Zinnia.Runtime">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Tilia.Interactions.Interactables.Unity.Runtime">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/ScriptAssemblies/Tilia.Interactions.Interactables.Unity.Runtime.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Tilia.Interactions.Interactables.Unity.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Hades_Fusedvr/Desktop/WebXR-ETH/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/FusedVR/Projects/WebXR-ETH/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
