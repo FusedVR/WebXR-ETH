@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.de-panther.webxr": {
-      "version": "0.8.1-preview",
+      "version": "0.9.0-preview",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -10,11 +10,11 @@
       "url": "https://package.openupm.com"
     },
     "com.de-panther.webxr-interactions": {
-      "version": "0.8.0-preview",
+      "version": "0.9.0-preview",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.de-panther.webxr": "0.8.0-preview"
+        "com.de-panther.webxr": "0.9.0-preview"
       },
       "url": "https://package.openupm.com"
     },

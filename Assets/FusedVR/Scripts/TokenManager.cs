@@ -23,7 +23,6 @@ public class TokenManager : MonoBehaviour
     }
 
     void BalanceCallback(float balance) {
-        Debug.LogError(balance);
         int numTokens = Mathf.FloorToInt(balance / TokenValue);
         StartCoroutine( CreateTokens(numTokens) );
     }
