@@ -1,6 +1,8 @@
 # ReadME
 
-This is a clone of the [NEthereum Unity Project](https://github.com/Nethereum/Unity3dSimpleSampleNet461) but augmented with the ability to use Metamask to sign transactions for WebGL builds. The example was based on the [NEthereum Flappy Bird](https://github.com/Nethereum/Nethereum.Flappy) project. Below is the README for the Sample NEthereum Project. 
+This project is built off of the Unity Nethereum Sample as highlighted in the rest of the README. On the master branch is a working implementation of a WebXR Metamask Unity Project. On the Metamask Only branch is an implementation of just using Unity with Metamask via a WebGL build. Below is a video tutorial showcasing the project and documenting the various different components of the project. 
+
+[![Ethereym WebXR Unity](https://img.youtube.com/vi/pWOi3sC0MUY/0.jpg)](https://www.youtube.com/watch?v=pWOi3sC0MUY)
 
 ## Misc Notes
 
